@@ -1,5 +1,7 @@
 # ReES: Recursive Entity Summarisation for Long Context Reasoning-in-a-Haystack
 
+![Graph](experiments/summarisation-graph/graph-preprocessed.svg)
+
 All experiments for reproducibility is found in `experiments/`.
 
 A Dockerfile to assist with spinning up a Neo4j Database is found in `neo4j/`.
