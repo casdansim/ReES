@@ -1,0 +1,12 @@
+# python generated files
+__pycache__/
+*.egg-info/
+
+# editor files
+.idea/
+
+# environment files
+.env*
+
+# generated dataset
+target_dataset/

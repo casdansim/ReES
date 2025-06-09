@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ReES"
+version = "1.0.0"
+authors = [
+    { name="Casper Mikkelsen", email="casper@hhcc.dk" },
+    { name="Daniel Birn", email="danielbirn@hotmail.com" },
+    { name="Simon Malthe Hansen", email="simonmhansen@hotmail.com" },
+]
+description = "A Recurrent Entity Summarisation approach for Retrieval-Augmented Generation."
+readme = "README.md"
+requires-python = ">=3.12.8,<3.12.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
